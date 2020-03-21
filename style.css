@@ -1,0 +1,65 @@
+
+body {
+	font-family: Verdana, Arial, sans-serif;
+	font-size:   normal;
+	background-color: #DDFBFF;
+	line-height:     1.6em;
+	
+}
+
+h2 {
+	font-size:   200%;
+    font-style:  italic;
+	font-family: Elowen;
+	text-align: center;
+}
+
+
+div.left {
+	float:    left;
+	width:    15%;
+	background-color:  9BFFFD; 
+	border:  3px inset gray;   
+	font-style:  italic;
+	font-weight:   bolder;
+     
+	
+	
+}
+div.main {
+	width:    75%;
+	padding:  15px 10px 15px 300px;
+	
+}
+div.chapters {
+	width:     75%;
+	padding:   15px 10px 15px 300px;
+	text-align: center;
+}
+@font-face {
+    font-family: 'Elowen';
+    src: url('/types/font/Elowen.eot');
+    src: local('Elowen'),
+        url('Elowen.eot?#iefix') format('embedded-opentype'),
+        url('Elowen.woff2') format('woff2'),
+        url('/types/font/Elowen.woff') format('woff'),
+        url('Elowen.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+span.red {
+	color: red;
+	text-decoration: underline;
+}
+h1,h2,h3,h4 {
+	font-style:  italic;
+	font-family: Elowen;
+	text-align: center;
+}
+h1 {
+	font-size:   250%;
+}
+h4 {
+	font-size:  130%;
+}

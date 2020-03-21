@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Elowen';
+    src: url('Elowen.eot');
+    src: local('Elowen'),
+        url('Elowen.eot?#iefix') format('embedded-opentype'),
+        url('Elowen.woff2') format('woff2'),
+        url('Elowen.woff') format('woff'),
+        url('Elowen.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Elowen Caps';
+    src: url('ElowenCaps.eot');
+    src: local('Elowen Caps'), local('ElowenCaps'),
+        url('ElowenCaps.eot?#iefix') format('embedded-opentype'),
+        url('ElowenCaps.woff2') format('woff2'),
+        url('ElowenCaps.woff') format('woff'),
+        url('ElowenCaps.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
