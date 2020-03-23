@@ -10,7 +10,7 @@ body {
 h2 {
 	font-size:   200%;
     font-style:  italic;
-	font-family: Elowen;
+	font-family: Verdana, Arial, sans-serif;
 	text-align: center;
 }
 
@@ -54,7 +54,7 @@ span.red {
 }
 h1,h2,h3,h4 {
 	font-style:  italic;
-	font-family: Elowen;
+	font-family: Verdana, Arial, sans-serif;
 	text-align: center;
 }
 h1 {
