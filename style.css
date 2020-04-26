@@ -17,7 +17,7 @@ h2 {
 
 div.left {
 	float:    left;
-	width:    15%;
+	width:    30%;
 	background-color:  9BFFFD; 
 	border:  3px inset gray;   
 	font-style:  italic;
@@ -27,8 +27,8 @@ div.left {
 	
 }
 div.main {
-	width:    75%;
-	padding:  15px 10px 15px 300px;
+	width:    65%;
+	padding:  15px 10px 15px 500px;
 	
 }
 div.chapters {
